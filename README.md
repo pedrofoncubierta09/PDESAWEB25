@@ -180,4 +180,4 @@ app.listen(PORT, () => {
 ## Boceto de la interfaz
 
 Aquí puedes ver el primer diseño de la interfaz principal:
-![Logo Ejemplo](images/images)
+![Logo Ejemplo](/proyecto intermodular/Ac_Hotels_Logo.webp "Logo")
