@@ -180,4 +180,4 @@ app.listen(PORT, () => {
 ## Boceto de la interfaz
 
 Aquí puedes ver el primer diseño de la interfaz principal:
-![Logo](/assets/images/mi-boceto.png "Logo")
+![Logo](/assets/mi-boceto.png "Logo")
