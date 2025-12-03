@@ -173,3 +173,6 @@ app.listen(PORT, () => {
 
 ## Página de ejemplo parecida a mi idea
 [Visita Google](https://www.airbnb.es/?_set_bev_on_new_domain=1764787238_EAOWY5MjRjZjYxN2&set_everest_cookie_on_new_domain=1764787238.EAYzhhMGE5MzhmNjRlMW.Ah3VYpKajweU4ib6sLhFXByANqD0CEI9w9zQPYia6to)
+
+## Imágen desde URL externa
+![Ejemplo de como sería la cápsula](https://imgs.search.brave.com/JyvexQQ_c9zJkNoU9YPSVFKAZE3QTkclD68FSI7Am5c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmNlbnRyYWxkZXJl/c2VydmFzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MC9PWFlHRU4tSE9T/VEVMLUNhcHN1bGEu/cG5n)
