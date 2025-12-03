@@ -176,3 +176,8 @@ app.listen(PORT, () => {
 
 ## Imágen desde URL externa
 ![Ejemplo de como sería la cápsula](https://imgs.search.brave.com/JyvexQQ_c9zJkNoU9YPSVFKAZE3QTkclD68FSI7Am5c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmNlbnRyYWxkZXJl/c2VydmFzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNC8x/MC9PWFlHRU4tSE9T/VEVMLUNhcHN1bGEu/cG5n)
+
+## Boceto de la interfaz
+
+Aquí puedes ver el primer diseño de la interfaz principal:
+![Logo Ejemplo](images/images)
