@@ -180,6 +180,6 @@ app.listen(PORT, () => {
 ## Boceto de la interfaz
 
 Aquí puedes ver el primer diseño de la interfaz principal:
-[Logo](https://github.com/pedrofoncubierta09/PDESAWEB25/blob/main/images "Logo")
+![Logo](https://github.com/pedrofoncubierta09/PDESAWEB25/blob/main/images "Logo")
 
 [Ver el detalle funcional](/detalle-funcional.md)
